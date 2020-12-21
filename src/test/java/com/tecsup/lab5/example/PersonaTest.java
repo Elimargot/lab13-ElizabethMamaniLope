@@ -25,5 +25,6 @@ public class PersonaTest {
         Persona nuevo = new Persona("Jorge");
         assertEquals("Jorge",nuevo.getNombre());
     }
+    ty
     
 }
